@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/Unity Projects/Chopsticks/Assets/ArcadeMode.unity
+  isLoaded: 1
+  isActive: 1

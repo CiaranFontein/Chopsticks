@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - courseText
+  - food
+  - timerText
+  - gameoverText
+  - gameWonText
+  - helpText
+  - flyCage
+  - table
+  - menu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FlyCage
+  - Fly
+  - Chopsticks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2171862827
+    locked: 0
+  - name: Body
+    uniqueID: 3438147767
+    locked: 0
+  - name: Table
+    uniqueID: 3569455329
+    locked: 0
+  - name: Upper Arm
+    uniqueID: 2821635231
+    locked: 0
+  - name: Face
+    uniqueID: 1929071193
+    locked: 0
+  - name: Plate
+    uniqueID: 2528842249
+    locked: 0
+  - name: Lower Arm
+    uniqueID: 2699592081
+    locked: 0
+  - name: Back of Hand
+    uniqueID: 3779217155
+    locked: 0
+  - name: Food
+    uniqueID: 319963393
+    locked: 0
+  - name: Top Chopstick and Index
+    uniqueID: 4237855313
+    locked: 0
+  - name: Thumb
+    uniqueID: 347846431
+    locked: 0
